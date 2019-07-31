@@ -6,6 +6,8 @@ A list of favorite resources.  Please make an issue or PR to add!
   -   [Intro to web accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/#what)
 
   -   [US legal context](https://www.logicsolutions.com/508-ada-wcag-accessibility-difference/)
+  
+  -   [Law blog with recent updates on US legal context](https://www.lflegal.com/2019/)
 
   -   [Web user stories](https://www.w3.org/WAI/people-use-web/user-stories/)
 

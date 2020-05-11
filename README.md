@@ -5,17 +5,17 @@ A list of favorite resources.  Please make an issue or PR to add!
 
 This is a place to start if you're not familiar with web accessibility.  It's also a good list of resources to send to your boss, coworker, or vendor if they give you a blank stare when you say something like "keyboard navigability."
 
-  -   [Intro to web accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/#what)
+  - [Web user stories](https://www.w3.org/WAI/people-use-web/user-stories/): stories about how people with different disabilities use the internet, and the barriers that may affect their experience
 
-  -   [US legal context](https://www.logicsolutions.com/508-ada-wcag-accessibility-difference/)
+  - [Applied accessibility tutorial for developers](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/): practical introduction for writing good HTML
 
-  -   [Law blog with recent updates on US legal context](https://www.lflegal.com/2019/)
+  - [Posters about accessible design](https://ukhomeoffice.github.io/accessibility-posters/posters/accessibility-posters.pdf): short, clear explanations of how to design for a few different groups of users-- great for hanging in an office where people think accessibility is just about screen readers!
 
-  -   [Web user stories](https://www.w3.org/WAI/people-use-web/user-stories/)
+  - [Don Norman on accessibility for older adults](https://www.fastcompany.com/90338379/i-wrote-the-book-on-user-friendly-design-what-i-see-today-horrifies-me): the man who coined the term "human centered design" writes about his own experiences
 
-  -   [Tutorial on applied accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/)
+  - [Law blog with recent updates on US legal context](https://www.lflegal.com/2019/10/dominos-comments/): this particular article is about misconceptions with the recent Domino's pizza case
 
-  -   [The Web Content Accessibility Guidelines themselves](https://www.w3.org/TR/WCAG21/)
+  - [The Web Content Accessibility Guidelines themselves](https://www.w3.org/TR/WCAG21/): I would encourage anyone to read them through at least once.  Even if you don't memorize them, you'll be more likely to get a nagging feeling that you should research implementation methods when you're working on something they cover.
 
 ## Checklists
 

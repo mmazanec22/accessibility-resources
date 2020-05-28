@@ -16,6 +16,8 @@ This is a place to start if you're not familiar with web accessibility.  It's al
   - [Law blog with recent updates on US legal context](https://www.lflegal.com/2019/10/dominos-comments/): this particular article is about misconceptions with the recent Domino's pizza case
 
   - [The Web Content Accessibility Guidelines themselves](https://www.w3.org/TR/WCAG21/): I would encourage anyone to read them through at least once.  Even if you don't memorize them, you'll be more likely to get a nagging feeling that you should research implementation methods when you're working on something they cover.
+  
+  - [A giant list of courses, webinars, educational videos, etc](https://github.com/mgifford/a11y-courses)
 
 ## Working with vendors
 

@@ -59,9 +59,17 @@ Automated tools are useful to catch issues that a computer can detect programmat
 
 ## Data visualization, maps, and SVG
 
-Currently, W3C's recommendation for charts is to include a short text alternative and a long description.
+The text below is an excerpt from an article that I wrote about the basics of web accessibility for data visualization.  You can [read the whole thing at the Data Visualization Society's blog, Nightingale](https://medium.com/nightingale/data-visualization-accessibility-where-are-we-now-and-whats-next-b2c9eeac4e8b).
 
-Anyone who has worked in data visualization knows that we are technically capable of so much more. Interactive charts made with scalable vector graphics (SVG) can support features like keyboard navigability and labels for screenreaders. A few individuals and libraries have begun to explore and implement accessible features for some use cases.
+The Web Content Accessibility Guidelines are limited in scope and do not explicitly address data visualization, other than using charts as an example of something for which you need to provide a text alternative. W3C’s tutorials recommend a short text alternative and a long description, which in their example is a table.
+
+While the standards aren’t clear on the implementation details of charts or maps, they do discuss some of the techniques we use to convey meaning with data:
+
+  - Color (standards 1.4.1, 1.4.3, 1.4.11): Use colors with a high contrast ratio and consider what additional visual cues (like patterns) could differentiate variables. Automated tools can be helpful to detect color contrast. Consider using a browser extension like Colorblinding to check your work.
+  
+  - Interaction (standards 2.1, 1.4.13, 2.4.3): Users should be able to do anything with a keyboard that they can do with a mouse. For data vis, that might include a tooltip that shows on hover, or a filter that is triggered by a click. If a user navigates through your data visualization with a keyboard, they should be able to do so in an order that makes sense. Users should be able to exit this interaction and not get stuck in a loop.
+  
+  - Animation (standards 1.2, 2.2, 2.3): Provide alternatives for time-based media. Do not use flashing images. Users should have control over the timing of animations.
 
 ## User research resources
 

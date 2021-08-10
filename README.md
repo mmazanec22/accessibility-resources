@@ -49,7 +49,7 @@ In my experience, checklists are the most effective way to audit your code base 
 
 ## Automated tools
 
-Automated tools are useful to catch issues that a computer can detect programmatically like color contrast and header level, but [catch only about 70% of accessibility issues](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/).
+Automated tools are useful to catch issues that a computer can detect programmatically like color contrast and header level, but [catch only about 70% of accessibility issues](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/). An automated tool cannot tell you if your content makes sense, if the order in which a user perceives it is helpful, or generally if what you've built is usable.
 
   - [WAVE - checks a URL you enter](https://wave.webaim.org/)
 
